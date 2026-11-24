@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+**/*firebase*adminsdk*.json
+**/*service-account*.json
+/uploads/
+/hs_err_pid*.log
+/deliveryya1new.sql
+/deliveryya1old.sql
